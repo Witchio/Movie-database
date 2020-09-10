@@ -27,4 +27,5 @@ Attempt at creating a movie database, where you can upload/watch/see description
 ## Add Movie
 
 ##Playlists
-- Not finished
+- Each user can create his own playlists. 
+- Need to be able to add movies to the playlist
